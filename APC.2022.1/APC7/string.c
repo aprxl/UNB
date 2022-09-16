@@ -43,16 +43,13 @@ int main() {
   for (int i = 0; i < n; i++) {
     char* buf = S[i];
 
-   
-    scanf("%s", buf);
-    buf[slen(buf) - 1] = '\0';
+    scanf(" %s", buf);
   }
 
   for (int i = 0; i < m; i++) {
     char* buf = P[i];
 
-    scanf("%s", buf);
-    buf[slen(buf) - 1] = '\0';
+    scanf(" %s", buf);
   }
 
   for (int i = 0; i < m; i++) {
