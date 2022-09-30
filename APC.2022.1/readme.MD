@@ -38,3 +38,11 @@ to be a real tutor, but I'll still gladly do what I'm doing even if I didn't get
 
 Now that's enough of me being all dramatic, let's wrap this thing up. In general, I'm glad with what I've experienced so far and I'm pretty
 happy to be finally studying the stuff I wanted to, unlike 90% of what I was taught at highschool. I can't wait to see what's next!
+
+> **Edit** Sep. 30th, 2022
+
+Our first semester just ended and, even though I'm tired, I still enjoyed every single moment of it. I'm also glad that me
+and most of my colleagues were able to finish this semester with very decent grades, except on Calculus, we're
+quite beat up by the "punch in the face" that were our classes. I dislike the fact that our teacher's funny
+and chill, it's like I can't even properly hate the guy.
+
