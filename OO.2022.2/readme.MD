@@ -1,6 +1,6 @@
 # OO
 
-## Object-Oriented Programming
+## Object-Oriented Programming (Orientação a Objetos)
 
 ### Description
 

@@ -1,6 +1,6 @@
 # DS
 
-## Software Development
+## Software Development (Desenvolvimento de Software)
 
 ### Description
 
