@@ -1,0 +1,3 @@
+[submodule "APC.Exercises"]
+	path = APC.Exercises
+	url = https://github.com/aprxl/APC-Exercicio.git
